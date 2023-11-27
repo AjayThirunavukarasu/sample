@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>my-project</artifactId>
+    <artifactId>techpower</artifactId>
     <version>1.0.0</version>
     
     <!-- Define the packaging type (e.g., jar, war) -->
