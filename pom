@@ -16,7 +16,7 @@
         <dependency>
             <groupId>group-id</groupId>
             <artifactId>artifact-id</artifactId>
-            <version>1.0.0</version>
+            <version>3.8.1</version>
         </dependency>
         <!-- Add more dependencies as needed -->
     </dependencies>
